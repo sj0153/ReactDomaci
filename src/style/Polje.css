@@ -1,0 +1,27 @@
+.polje{
+    border: solid 1pt rgb(168, 166, 166);
+    background-color: rgb(252, 250, 250);
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+}
+
+.krug{
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+    margin: 0.5em;
+}
+
+.dugme{
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

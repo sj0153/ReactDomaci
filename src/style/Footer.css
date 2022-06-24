@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.footer{
+    background-color: rgb(205, 242, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(145, 142, 142);
+    height: 2em;
+    padding: 0;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    -webkit-box-shadow: 0px -4px 3px rgba(97, 96, 96, 0.75);
+    -moz-box-shadow: 0px -4px 3px rgba(97, 96, 96, 0.75);
+    box-shadow: 0px -4px 3px rgba(97, 96, 96, 0.75);
+}
+
+h6{
+    padding: 3pt;
+    margin-left: 2em;
+    font-size: 10pt;
+}
+
