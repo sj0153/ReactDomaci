@@ -6,7 +6,7 @@ export default class Footer extends Component {
     render() {
         return (
             <div className="footer">
-                <h6>Internet tehnologije: treći domaći</h6>
+                <h6>Internet tehnologije: Stefan Jovanovic - React</h6>
             </div>
         )
     }
